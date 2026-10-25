@@ -1,0 +1,7 @@
+# Large 3ds Max source assets — not part of the web app
+villa+2018/
+*.max
+
+.vscode/
+.DS_Store
+Thumbs.db
