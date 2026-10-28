@@ -5,3 +5,6 @@ villa+2018/
 .vscode/
 .DS_Store
 Thumbs.db
+
+.vercel
+.env*
